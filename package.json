@@ -1,0 +1,14 @@
+{
+  "name": "aroundbackend",
+  "version": "1.0.0",
+  "description": "this is the backend for around project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grace Yankey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
