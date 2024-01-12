@@ -3,7 +3,7 @@ const Sequelize = require ("sequelize")
 
 // creating a connection to the postgres Database
 
-const sequelize = new Sequelize('aroundDatabase','postgres','password'{
+const sequelize = new Sequelize('aroundDatabase','postgres','password',{
     host:' localhost',
     dialect:'postgres'
 })
